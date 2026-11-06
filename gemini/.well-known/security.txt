@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: josh@jbeard.co
+Encryption: gemini://jbeard.co/joshbeard-public.asc.txt
+Preferred-Languages: en
+Canonical: gemini://jbeard.co/.well-known/security.txt
+Expires: 2022-12-31T23:59:59Z
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEypaYnUo/eGn13rON+b5UjsNkG0EFAmJvQCUACgkQ+b5UjsNk
+G0GYMg/9HEi2LYVj3A7wskC8OqIsj3c/VVZdVdVYyct+mIrTaN0uwAS68YqEbJ60
+cCDULnk2UFuxfb8242ixTO6h+h8o2W7Cs56BZ9IduXSfQuc27YXLIsPHS6cprD7P
+Rl1K2Hi3cZYXau6P4Jd5x+1RkCOHbl2T2R3z1pnOq0mteNlbP2AExpDRgWXnP7Kp
+M3RmTqtPJ2+cCvxAr+zdjycUVv5e6s1snbbEjxRFhiSEXM5F950OUPllBzcysg01
+LR/Xjfg85kx9riGFYLeyvmN/lu5lvA4Twd0nNqrgF5GhynffjBjppNQt/eCW75E7
+Bq7hL2ByUdLQ845lHp8u+PfL90LTu/TiE8il246OFtsOhuNXnOglZZgO0mxOwU8f
+QoZ3kOegAT8SxYPOpyPOB8O63TFHCcauBqHgHEdzFSQznRsQRErNt3CgI0X7Tkhy
+N0rgkRIQ1kzLlX9mVPfFf0NORekMQiZVw/i23xG7XR5ezP6gAyUVHizF1HtbpJwy
+sEFdxY0jb2kqN2zPVTxsZ7CqS0ZFa60Fw0hU0Uh2IYDrHgZ7bg6Q0zVFIfD/5H1V
+TWBZxZydiK6jAJ2AilkoL25AAlX2xqsYJlIAohV4kw2Nz907SxBWLHMdgAVjoQ6C
+UFGv8pGxU5Y2rkYhbb5t4eLrJgprhb1+KrGqHHEqyS9+K+v//IM=
+=R0c5
+-----END PGP SIGNATURE-----
+

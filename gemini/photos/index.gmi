@@ -1,0 +1,5 @@
+# Photos
+
+The photo library is published on the web. It is not copied onto this capsule.
+
+=> https://joshbeard.me/photos/ Browse photos

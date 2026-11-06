@@ -1,0 +1,54 @@
+# Josh Beard
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+███▄█░▄▄▀█░▄▄█░▄▄▀█░▄▄▀█░▄▀█
+███░█░▄▄▀█░▄▄█░▀▀░█░▀▀▄█░█░█
+█░▀░█▄▄▄▄█▄▄▄█▄██▄█▄█▄▄█▄▄██
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+=============================
+Welcome to jbeard.co!
+=============================
+
+This is served from my home server
+in Colorado Springs, Colorado, USA.
+
+I'm not really active on Gemini,
+but I like knowing I have a little
+capsule on it.
+
+## 🖼️ Photos
+
+Some photos, mostly from around Colorado:
+
+=> /photos/ 🖼️ Browse my Photos
+
+## 👋 Get in touch
+
+I'd love to hear from you and check out your Gemini capsule and/or website!
+
+=> https://joshbeard.me
+=> gopher://jbeard.co
+=> finger://jbeard.co/josh finger josh@jbeard.co
+=> https://github.com/joshbeard joshbeard on GitHub
+=> mailto://josh@jbeard.co/josh Email josh@jbeard.co
+=> joshbeard-public.asc.txt PGP Key (C3641B41)
+
+## ➠ Résumé
+
+=> /resume.gmi View my résumé
+=> finger://jbeard.co/resume finger resume@jbeard.co
+
+____________________________________________
+
+```
+┏━━━━━━━━━━━•❃°•°🐓°•°❃•━━━━━━━━━━━┓ 
+         In memory of my mom.
+     Sept 7, 1959 - July 22, 2021
+┗━━━━━━━━━━━•❃°•°❀❀°•°❃•━━━━━━━━━━━┛ 
+```
+
+Served with JetForce on Rocky Linux
+
+Last updated September 27, 2024.

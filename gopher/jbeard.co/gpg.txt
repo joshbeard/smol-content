@@ -1,0 +1,17 @@
+## My GPG Keys
+
+* Key ID: `0xCA96989D4A3F7869F5DEB38DF9BE548EC3641B41` (short: `C3641B41`)
+* Fingerprint: `CA96 989D 4A3F 7869 F5DE B38D F9BE 548E C364 1B41`
+
+* Download my GPG public key:
+0joshbeard-public.asc.txt /files/joshbeard-public.asc.txt jbeard.com  70
+
+* See it on keys.opengpg.org:
+hkeys.opengpg.org   URL:https://keys.openpgp.org/search?q=0xCA96989D4A3F7869F5DEB38DF9BE548EC3641B41
+
+* See it on keyserver.ubuntu.com:
+hkeyserver.ubuntu.com   URL:https://keyserver.ubuntu.com/pks/lookup?search=0xCA96989D4A3F7869F5DEB38DF9BE548EC3641B41&amp;fingerprint=on&amp;op=index
+
+* joshbeard on Keybase:
+hkeybase.io/joshbeard   URL:https://keybase.io/joshbeard
+

@@ -1,0 +1,4 @@
+This is also available at:
+  * https://joshbeard.me/resume
+  * gopher://jbeard.co/resume.txt
+  * gemini://jbeard.co/resume.gmi

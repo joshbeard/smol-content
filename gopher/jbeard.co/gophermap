@@ -1,0 +1,22 @@
+!Josh Beard's Gopher Hole
+
+Welcome to gopher://jbeard.co!
+
+1Photos	/photos
+0My Resume	/resume.txt
+
+Other ways to reach me:
+
+hhttps://joshbeard.me	URL:https://joshbeard.me/
+hgemini://jbeard.co	URL:gemini://jbeard.co/
+hfinger://jbeard.co/josh	URL:finger://jbeard.co/josh
+hjoshbeard on GitHub	https://github.com/joshbeard
+hjosh@jbeard.co	URL:mailto://josh@jbeard.co
+0PGP Key (C3641B41)	/joshbeard-public.asc.txt
+
+________________________________________
+I am running this Gopher hole from my
+Homelab on a Rocky Linux virtual machine
+with Gophernicus.
+
+Last updated July 30, 2022

@@ -15,8 +15,8 @@ hjosh@jbeard.co	URL:mailto://josh@jbeard.co
 0PGP Key (C3641B41)	/joshbeard-public.asc.txt
 
 ________________________________________
-I am running this Gopher hole from my
-Homelab on a Rocky Linux virtual machine
-with Gophernicus.
+This Gopher hole runs on a small EC2
+instance in AWS us-west-2, on Amazon
+Linux, with Gophernicus.
 
-Last updated July 30, 2022
+Last updated November 7, 2026

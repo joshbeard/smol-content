@@ -11,8 +11,8 @@
 Welcome to jbeard.co!
 =============================
 
-This is served from my home server
-in Colorado Springs, Colorado, USA.
+This runs on a small EC2 instance
+in AWS us-west-2, on Amazon Linux.
 
 I'm not really active on Gemini,
 but I like knowing I have a little
@@ -49,6 +49,6 @@ ____________________________________________
 ┗━━━━━━━━━━━•❃°•°❀❀°•°❃•━━━━━━━━━━━┛ 
 ```
 
-Served with JetForce on Rocky Linux
+Served with Jetforce on Amazon Linux
 
-Last updated September 27, 2024.
+Last updated November 7, 2026.

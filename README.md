@@ -1,6 +1,6 @@
 # smol-content
 
-Files served for the [jbeard.co Gopher, Gemini, and Finger deployments](https://joshbeard.com/site/small.html).
+Files served for jbeard.co.
 
 ```text
 gemini/   Jetforce root (gemini://jbeard.co/)
